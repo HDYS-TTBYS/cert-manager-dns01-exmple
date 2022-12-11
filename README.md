@@ -22,5 +22,5 @@ kubectl apply -f ingress.yaml
 
 デバッグ
 ```
-kubectl describe || certificate  || certificateRequest || order || hallenge
+kubectl describe || certificate  || certificateRequest || order || challenge
 ```
